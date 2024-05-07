@@ -13,7 +13,7 @@ int target;
 cout<<"Enter Target TO Search:";
 cin>>target;
 int start=0,end=n-1,mid;
-pos=-1;
+int pos=-1;
 while(start<=end)
 {
   mid=(start+end)/2;
