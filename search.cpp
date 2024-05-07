@@ -29,6 +29,7 @@ else
 {
   start=mid+1;
 }
+}
 if(pos==1)
 {
   cout<<target<<"is not"<<endl;
